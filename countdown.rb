@@ -1,4 +1,5 @@
 #write your code here
 
-def countdown
+def countdown( number_of_seconds )
+  
 end
